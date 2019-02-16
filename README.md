@@ -1,2 +1,2 @@
-# zultiki-com
-website for zultiki
+# zultiki-website
+Isle of Zultiki
